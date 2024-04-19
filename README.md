@@ -30,7 +30,7 @@ Asegúrate de tener instalado Node.js en tu sistema. Puedes descargarlo desde [n
     npm run dev
     ```
 
-    Visita `http://localhost:3000` en tu navegador para ver la aplicación en acción.
+    Visita `http://localhost:5173` en tu navegador para ver la aplicación en acción.
 
 ## Scripts disponibles
 
