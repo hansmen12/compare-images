@@ -113,7 +113,7 @@ function App() {
           </div>
         }
         itemTwo={
-          <div className="relative w-full h-full bg-red-100">
+          <div className="relative w-full h-full ">
             <img
               src="./images/car2.png"
               className="w-full md:w-auto absolute left-1/2 top-2/3 transform -translate-x-1/2 -translate-y-1/2 scale-90 lg:scale-[.65] 2xl:scale-100"
