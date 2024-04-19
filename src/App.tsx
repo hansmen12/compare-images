@@ -93,7 +93,7 @@ function App() {
           <div className="relative w-full h-full">
             <img
               src="./images/car1.png"
-              className="absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 scale-90 lg:scale-[.65] 2xl:scale-100"
+              className="absolute left-1/2 top-2/3 transform -translate-x-1/2 -translate-y-1/2 scale-90 lg:scale-[.65] 2xl:scale-100"
             />
             <img
               src="./images/car1-logo.png"
@@ -116,7 +116,7 @@ function App() {
           <div className="relative w-full h-full bg-red-100">
             <img
               src="./images/car2.png"
-              className="w-full md:w-auto absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 scale-90 lg:scale-[.65] 2xl:scale-100"
+              className="w-full md:w-auto absolute left-1/2 top-2/3 transform -translate-x-1/2 -translate-y-1/2 scale-90 lg:scale-[.65] 2xl:scale-100"
             />
             <img
               src="./images/car2-logo.png"
